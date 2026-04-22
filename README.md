@@ -6,7 +6,7 @@ I work at the intersection of frontend state and transactional database logic.
 ---
 
 ## 🚀 Technical Focus
-* **System Integrity:** Transaction-safe inventory updates using PostgreSQL row-level locking  
+* **System Integrity:** Transaction-safe updates using PostgreSQL row-level locking  
 * **Security:** Role-based access (RLS) with JWT session persistence  
 * **Performance:** Server-side aggregation & logic via PostgreSQL RPC  
 * **State Architecture:** Predictable data flow using Redux + TanStack Query  
@@ -31,6 +31,3 @@ I work at the intersection of frontend state and transactional database logic.
 **Security:** JWT Auth • Row Level Security (RLS)
 
 ---
-
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/sonukr095)
