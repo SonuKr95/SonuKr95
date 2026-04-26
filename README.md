@@ -1,6 +1,6 @@
 # Hi, I'm Sonu 👋
 
-**An engineer focused on building systems that don’t break under real-world usage.**  
+**A developer focused on building systems that don’t break under real-world usage.**  
 I work at the intersection of frontend state and transactional database logic.
 
 ---
