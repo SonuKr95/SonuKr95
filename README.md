@@ -20,7 +20,7 @@ I work at the intersection of frontend state and transactional database logic.
 * **Data Integrity:** Enforced SKU uniqueness and relational constraints at the DB level  
 * **Efficient Backend Logic:** Transactional RPCs to handle order processing and aggregation  
 
-👉 **[Live Demo](https://orderflow.sonukr.com/)**
+👉 **[Live Demo](https://ubiquitous-torrone-a4837b.netlify.app)**
 👉 **[Source Code](https://github.com/SonuKr95/OrderFlowV2)**
 
 ---
